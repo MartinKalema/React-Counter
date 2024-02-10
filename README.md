@@ -4,5 +4,3 @@ The React Counter project is a small web application developed to aid in learnin
 ```
 git clone https://github.com/MartinKalema/React-Counter
 ```
-## Check it Out
-https://martinkalema.github.io/React-Counter/
